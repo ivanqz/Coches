@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# Practica coches
+Pedir al usuario su nombre y 3 marcas de coche y mostrarlo por pantalla
